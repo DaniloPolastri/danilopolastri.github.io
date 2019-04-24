@@ -356,6 +356,9 @@ a:hover img{
 /* FIM INFO PRODUTO*/
 
 /*COMEÇOS CARROUSEL*/
+#titlecarrousel{
+  margin-top: 100px;
+}
 
 .carrousel{
   margin-left: 35px;
@@ -393,7 +396,7 @@ a:hover img{
   opacity: 0.6;
 }
 .marginfooter{
-  margin-top: 25%;
+  margin-top: 18%;
 }
 footer ul li:hover{
  color: #706f6f;
@@ -410,7 +413,7 @@ footer ul li:hover{
   background: #fff;
   padding-left: 60px;
   padding-top: 60px;
-  margin-bottom: 165px;
+  margin-bottom: 80px;
 }
 
 .news h2{
